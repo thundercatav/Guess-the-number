@@ -59,7 +59,7 @@ function processInput(input) {
         outputMessage(`Верно! Это число ${number}.`)
         outputMessage(`Кол-во попыток: ${attempts}`)
 
-        prompt.remove()
+        prom.remove()
 
     }
 
